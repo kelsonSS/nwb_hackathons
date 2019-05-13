@@ -2,9 +2,8 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
 
-Integrate Thorlabs 2p calcium data into NWB
+# Integrate Thorlabs 2p calcium data into NWB
 
 ## Key Investigators
 
